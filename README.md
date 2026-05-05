@@ -136,14 +136,6 @@ The pipeline also suggests improvements based on failure patterns:
 * Ensure compliance with API usage policies
 
 
-## Future Improvements
-
-* Multi-model comparison dashboard
-* Visualization of attack trends
-* Integration with open-source LLMs
-* Advanced attack generation (auto red teaming)
-
-
 ## Inspiration
 
 This project is built around the growing need for **robust, safe, and trustworthy AI systems**, especially as LLMs become more widely deployed.
