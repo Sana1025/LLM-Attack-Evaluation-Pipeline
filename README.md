@@ -129,13 +129,6 @@ The pipeline also suggests improvements based on failure patterns:
 4. Improve model defenses
 
 
-## Notes
-
-* This tool is intended **only for research and safety evaluation**
-* Do not use it to generate or deploy harmful content
-* Ensure compliance with API usage policies
-
-
 ## Inspiration
 
 This project is built around the growing need for **robust, safe, and trustworthy AI systems**, especially as LLMs become more widely deployed.
